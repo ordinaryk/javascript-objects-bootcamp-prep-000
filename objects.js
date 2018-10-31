@@ -1,3 +1,5 @@
-var playlist = {}
+var playlist = {Bob Marley: 'No Woman, No Cry'}
 
-Object.assign(playlist, {Queen: 'Bohemian Rhapsody'} )
+function updatePlaylist(obj, artist, songtitle) {
+  a = object.assign
+}
